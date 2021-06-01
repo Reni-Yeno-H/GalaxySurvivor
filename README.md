@@ -1,2 +1,2 @@
 # GalaxySurvivor
-Lab for class CISC 3667
+Game Lab for class CISC 3667
