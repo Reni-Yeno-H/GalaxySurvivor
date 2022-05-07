@@ -107,3 +107,10 @@ System memory in use after: 167.3 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2490.
 Total: 3.833213 ms (FindLiveObjects: 0.388964 ms CreateObjectMapping: 0.127676 ms MarkObjects: 3.290550 ms  DeleteObjects: 0.023496 ms)
 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Credits.unity
+  artifactKey: Guid(bb763815dcd5745d78a61a1336306b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Credits.unity using Guid(bb763815dcd5745d78a61a1336306b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c494998cb1801367a8f97cc185d9e5') in 0.044261 seconds
+  Import took 0.066738 seconds .
+
