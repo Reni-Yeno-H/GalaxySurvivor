@@ -2845,7 +2845,7 @@ GameObject:
   - component: {fileID: 731452293}
   - component: {fileID: 731452292}
   m_Layer: 5
-  m_Name: highScore
+  m_Name: Credits
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
